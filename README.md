@@ -1,7 +1,7 @@
-New changes done by developer
+Sample "Hello World" program.
 
-some more changes dondddddddeddd
-
-
-cccccc
+Purpose
+To implement the same in the Devops CI-CD Pipeline, usign Toosl like Maven & Jenkins
+It runs well on tomcat 8 server.
+Thanks
 
